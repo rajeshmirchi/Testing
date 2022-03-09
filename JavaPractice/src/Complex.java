@@ -2,7 +2,7 @@
 public class Complex {
 
 	 
-	int real; int imaginary;
+	int real; int imaginary; 
 	
 	Complex()
 	{}
